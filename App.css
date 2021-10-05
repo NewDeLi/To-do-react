@@ -1,0 +1,25 @@
+
+.App h1 {
+   text-align: center;
+   background-color: lightblue;
+   color: white;
+   border: 2px solid lightblue;
+   width: 50%;
+   margin: 1rem auto;
+}
+.App ul {
+  list-style-type: none;
+}
+.App li {
+  margin: 3rem .8rem;
+  max-width: 100%;
+  border: 1px solid lightblue;
+  box-shadow: 2px 2px 2px 1px lightblue;
+  border-radius: 10px;
+}
+.App input{
+  width: 1.25rem;
+  height: 1.25rem;
+  margin: 1rem;
+  color: lightblue;
+}
