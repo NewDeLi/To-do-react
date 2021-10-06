@@ -23,3 +23,9 @@
   margin: 1rem;
   color: lightblue;
 }
+.isDone{
+  text-decoration: none;
+}
+.setDone{
+  text-decoration:line-through;
+}

@@ -3,12 +3,12 @@ import logo from './logo.svg'
 import './App.css'
 import { TodoList } from './components/TodoList.jsx'
 
-function App() {
+export const App = () => {
   return (
     <div className="App">
-    <TodoList />
+      <TodoList />
     </div>
-  )  
-}
+  )
+};
 
-export default App
+
