@@ -7,6 +7,8 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "@ionic/react": "^6.0.8",
+    "@ionic/react-router": "^6.0.8",
     "node-sass": "^6.0.1",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",

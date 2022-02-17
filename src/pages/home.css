@@ -1,0 +1,29 @@
+.isDone {
+  text-decoration: none;
+}
+.setDone {
+  text-decoration: line-through;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+}
+ion-content {
+  --ion-background-color: #d4e1fd;
+}
+
+ion-item {
+  --ion-background-color: white;
+}
+
+ion-item p {
+  flex-grow: 1;
+  text-align: center;
+}
