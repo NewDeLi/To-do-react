@@ -1,2 +1,2 @@
 # To-do-react Design
-![To-do-App(iPhone 12 Pro)](https://user-images.githubusercontent.com/85612831/158388807-5e749c17-0a85-405e-82d0-b778815aca01.png)
+![github](https://user-images.githubusercontent.com/85612831/158390485-80443744-98f4-45a1-a119-5e5a0747cf32.png)
