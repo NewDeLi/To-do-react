@@ -15,6 +15,11 @@ form {
   right: 0;
   text-align: center;
 }
+
+ion-header {
+  text-align: center;
+}
+
 ion-content {
   --ion-background-color: #d4e1fd;
 }

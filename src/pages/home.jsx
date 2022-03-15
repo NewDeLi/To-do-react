@@ -13,14 +13,14 @@ import "../index.css";
 
 const Home = () => {
   return (
-    <IonPage background-color="primary">
+    <IonPage>
       <IonHeader>
         <IonToolbar color="primary" className="ion-padding">
           <IonTitle>To-do-List</IonTitle>
         </IonToolbar>
       </IonHeader>
-      <IonContent fullscreen className="ion-padding" background="primary">
-        <IonGrid color="secondary">
+      <IonContent fullscreen="true" className="ion-padding">
+        <IonGrid>
           <TodoList />
         </IonGrid>
       </IonContent>
